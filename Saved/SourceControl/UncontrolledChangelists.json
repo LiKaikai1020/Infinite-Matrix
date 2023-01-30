@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_CSHAKE.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/UIUC/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/Indicator.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/Health.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/415/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/HealthPack.uasset"
+			]
+		}
+	]
+}
